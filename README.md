@@ -1,5 +1,5 @@
 # Clydia-opensource
-Vous pouvez trouver la documentation sur http://documentation.clydia.online/
+Vous pouvez trouver la documentation sur https://documentation.clydia.online/
 
 ## 🤓 Auto Hébergement
 
