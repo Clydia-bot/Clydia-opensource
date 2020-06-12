@@ -39,6 +39,6 @@ cd Clydia-opensource
 python3 -m pip install -U discord.py
 ```
 
-3.  Allez dans le fichier main.py puis chercher la ligne `client.run('TOKENHERE`) puis rentrez ici votre token Discord
+3.  Allez dans le fichier main.py puis chercher la ligne `client.run('TOKENHERE'`) puis rentrez ici votre token Discord
 4.  tapez la commande `python3 main.py`
 5.  Voilà Clydia est prêt 🍾
