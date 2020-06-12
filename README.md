@@ -1,7 +1,6 @@
 # Clydia-opensource
 ## 🤓 Auto Hébergement
 
-> Cette fonctionnalité n'est pas encore disponible.
 > Les étapes montrées dans ce tutoriel ont été faites avec Ubuntu 18.04
 
 ### 🖥 Voici les OS qui marchent avec Clydia :
