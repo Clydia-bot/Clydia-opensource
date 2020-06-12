@@ -123,4 +123,4 @@ async def ping(ctx):
 
 
 # connecter au serveur
-client.run(TOKENHERE)
+client.run('TOKENHERE')
